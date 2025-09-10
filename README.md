@@ -20,7 +20,7 @@ This project shows how **Power BI** can transform raw sales data into **actionab
 - Bar chart to analyze total sales based on Item type 
 
 ## 🔹 Dashboard Preview
-![Dashboard Screenshot](./screenshots/dashboard.png)  
+![Dashboard Screenshot](https://github.com/Divyashree-08996/PowerBi-Report/blob/main/Screenshot%202025-09-10%20183736.png)  
 
 ## 🔹 Tech Stack
 - Power BI Desktop  
