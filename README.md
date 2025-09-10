@@ -30,5 +30,5 @@ This project shows how **Power BI** can transform raw sales data into **actionab
 ---
 
 ✨ If you're a recruiter or data enthusiast, I’d love to hear your feedback!  
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/divyashree-l)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyashree-l)  
 
